@@ -1,5 +1,4 @@
 import type { Metadata } from 'next'
-import { Inter } from 'next/font/google'
 import './globals.css'
 import { ColorSchemeScript, MantineProvider } from '@mantine/core'
 import Providers from '@/app/providers'
